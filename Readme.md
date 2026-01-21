@@ -170,13 +170,5 @@ Feel free to reference or adapt with proper credit.
 Built with passion for **Techcracy 2025**
 by the student development team ❤️
 
----
+st tell me 🚀
 
-If you want next, I can:
-
-* ✍️ Write **LinkedIn post text** for this project
-* 🧠 Create **portfolio description**
-* 🎯 Optimize README for **recruiters**
-* 🎨 Suggest UI improvements or refactors
-
-Just tell me 🚀
